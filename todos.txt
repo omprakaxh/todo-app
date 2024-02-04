@@ -11,3 +11,5 @@ jolly pannuh
 throw the garbage
 clean the room
 spread the bedsheet
+master python
+cook it 
